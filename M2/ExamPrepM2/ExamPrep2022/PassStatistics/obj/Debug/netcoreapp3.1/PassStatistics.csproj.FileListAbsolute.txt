@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\bin\Debug\netcoreapp3.1\PassStatistics.exe
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\bin\Debug\netcoreapp3.1\PassStatistics.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\bin\Debug\netcoreapp3.1\PassStatistics.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\bin\Debug\netcoreapp3.1\PassStatistics.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\bin\Debug\netcoreapp3.1\PassStatistics.dll
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\bin\Debug\netcoreapp3.1\PassStatistics.pdb
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\obj\Debug\netcoreapp3.1\PassStatistics.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\obj\Debug\netcoreapp3.1\PassStatistics.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\obj\Debug\netcoreapp3.1\PassStatistics.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\obj\Debug\netcoreapp3.1\PassStatistics.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\obj\Debug\netcoreapp3.1\PassStatistics.dll
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\obj\Debug\netcoreapp3.1\PassStatistics.pdb
+C:\Users\ad_di\source\repos\ExamPrep2022\PassStatistics\obj\Debug\netcoreapp3.1\PassStatistics.genruntimeconfig.cache

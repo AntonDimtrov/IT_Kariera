@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\bin\Debug\netcoreapp3.1\Icarus.exe
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\bin\Debug\netcoreapp3.1\Icarus.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\bin\Debug\netcoreapp3.1\Icarus.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\bin\Debug\netcoreapp3.1\Icarus.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\bin\Debug\netcoreapp3.1\Icarus.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\bin\Debug\netcoreapp3.1\Icarus.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\obj\Debug\netcoreapp3.1\Icarus.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\obj\Debug\netcoreapp3.1\Icarus.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\obj\Debug\netcoreapp3.1\Icarus.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\obj\Debug\netcoreapp3.1\Icarus.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\obj\Debug\netcoreapp3.1\Icarus.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\obj\Debug\netcoreapp3.1\Icarus.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\Icarus\obj\Debug\netcoreapp3.1\Icarus.genruntimeconfig.cache

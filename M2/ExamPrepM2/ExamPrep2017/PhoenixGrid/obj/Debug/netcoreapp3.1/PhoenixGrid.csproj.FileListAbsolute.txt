@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\bin\Debug\netcoreapp3.1\PhoenixGrid.exe
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\bin\Debug\netcoreapp3.1\PhoenixGrid.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\bin\Debug\netcoreapp3.1\PhoenixGrid.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\bin\Debug\netcoreapp3.1\PhoenixGrid.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\bin\Debug\netcoreapp3.1\PhoenixGrid.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\bin\Debug\netcoreapp3.1\PhoenixGrid.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\obj\Debug\netcoreapp3.1\PhoenixGrid.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\obj\Debug\netcoreapp3.1\PhoenixGrid.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\obj\Debug\netcoreapp3.1\PhoenixGrid.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\obj\Debug\netcoreapp3.1\PhoenixGrid.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\obj\Debug\netcoreapp3.1\PhoenixGrid.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\obj\Debug\netcoreapp3.1\PhoenixGrid.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixGrid\obj\Debug\netcoreapp3.1\PhoenixGrid.genruntimeconfig.cache

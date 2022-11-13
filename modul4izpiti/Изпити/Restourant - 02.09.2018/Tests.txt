@@ -1,0 +1,167 @@
+Case=Case01
+Fail message= Case01_fail
+grade reduction=0
+input=Add cherry
+Add salami
+Print
+END
+output=Product cherry
+Product salami
+Case=Case02
+Fail message= Case02_fail
+grade reduction=10
+input=Add cherry
+Add salami
+Print
+Remove 0
+Print
+END
+output=Product cherry
+Product salami
+Removed: cherry
+Product salami
+Case=Case03
+Fail message= Case03_fail
+grade reduction=10
+input=Add cherry
+Add salami
+Add eggs
+Remove 1
+Print
+END
+output=Removed: salami
+Product cherry
+Product eggs
+Case=Case04
+Fail message= Case04_fail
+grade reduction=10
+input=Add cherry
+Add salami
+Add eggs
+Remove salami
+Remove cherry
+Print
+END
+output=Removed: salami
+Removed: cherry
+Product eggs
+Case=Case05
+Fail message= Case05_fail
+grade reduction=10
+input=Add cherry
+Add salami
+Add eggs
+Remove salami
+Remove cherry
+Add cherry
+Remove 0
+Print
+END
+output=Removed: salami
+Removed: cherry
+Removed: eggs
+Product cherry
+Case=Case06
+Fail message= Case06_fail
+grade reduction=10
+input=Add cherry
+Add salami
+Add eggs
+Check salami
+Check adadasd
+END
+output=Product salami is in stock.
+Not in stock
+Case=Case07
+Fail message= Case07_fail
+grade reduction=10
+input=Add cherry
+Add salami
+Add eggs
+Add meat
+Add vegetables
+Cook 2 4
+END
+output=Meal cooked. Used Products: eggs, meat
+Case=Case08
+Fail message= Case08_fail
+grade reduction=10
+input=Add cherry
+Add salami
+Add eggs
+Remove 1
+Remove eggs
+Print
+END
+output=Removed: salami
+Removed: eggs
+Product cherry
+Case=Case09
+Fail message= Case09_fail
+grade reduction=10
+input=Add cherry
+Add salami
+Add eggs
+Remove 1
+Remove eggs
+Print
+Check dadadada
+Check cherry
+Check eggs
+END
+output=Removed: salami
+Removed: eggs
+Product cherry
+Not in stock
+Product cherry is in stock.
+Not in stock
+Case=Case10
+Fail message= Case10_fail
+grade reduction=10
+input=Add cherry
+Add salami
+Add eggs
+Remove 1
+Remove eggs
+Print
+Check dadadada
+Check cherry
+Check eggs
+Add eggs
+Cook 0 2
+END
+output=Removed: salami
+Removed: eggs
+Product cherry
+Not in stock
+Product cherry is in stock.
+Not in stock
+Meal cooked. Used Products: cherry, eggs
+Case=Case11
+Fail message= Case11_fail
+grade reduction=10
+input=Add cherry
+Add salami
+Add eggs
+Remove 1
+Remove eggs
+Print
+Check dadadada
+Check cherry
+Check eggs
+Add eggs
+Cook 0 2
+Cook 0 25
+Remove 0
+Print
+END
+output=Removed: salami
+Removed: eggs
+Product cherry
+Not in stock
+Product cherry is in stock.
+Not in stock
+Meal cooked. Used Products: cherry, eggs
+Meal cooked. Used Products: cherry, eggs
+Removed: cherry
+Product eggs

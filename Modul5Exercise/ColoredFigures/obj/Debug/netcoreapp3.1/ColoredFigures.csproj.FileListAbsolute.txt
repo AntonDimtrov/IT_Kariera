@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\bin\Debug\netcoreapp3.1\ColoredFigures.exe
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\bin\Debug\netcoreapp3.1\ColoredFigures.deps.json
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\bin\Debug\netcoreapp3.1\ColoredFigures.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\bin\Debug\netcoreapp3.1\ColoredFigures.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\bin\Debug\netcoreapp3.1\ColoredFigures.dll
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\bin\Debug\netcoreapp3.1\ColoredFigures.pdb
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\obj\Debug\netcoreapp3.1\ColoredFigures.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\obj\Debug\netcoreapp3.1\ColoredFigures.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\obj\Debug\netcoreapp3.1\ColoredFigures.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\obj\Debug\netcoreapp3.1\ColoredFigures.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\obj\Debug\netcoreapp3.1\ColoredFigures.dll
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\obj\Debug\netcoreapp3.1\ColoredFigures.pdb
+C:\Users\ad_di\source\repos\Modul5Exercise\ColoredFigures\obj\Debug\netcoreapp3.1\ColoredFigures.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\ad_di\source\repos\OOP_modul3_BEGINING\OOP_modul3_BEGINING\bin\Debug\OOP_modul3_BEGINING.exe.config
+C:\Users\ad_di\source\repos\OOP_modul3_BEGINING\OOP_modul3_BEGINING\bin\Debug\OOP_modul3_BEGINING.exe
+C:\Users\ad_di\source\repos\OOP_modul3_BEGINING\OOP_modul3_BEGINING\bin\Debug\OOP_modul3_BEGINING.pdb
+C:\Users\ad_di\source\repos\OOP_modul3_BEGINING\OOP_modul3_BEGINING\obj\Debug\OOP_modul3_BEGINING.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\OOP_modul3_BEGINING\OOP_modul3_BEGINING\obj\Debug\OOP_modul3_BEGINING.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\OOP_modul3_BEGINING\OOP_modul3_BEGINING\obj\Debug\OOP_modul3_BEGINING.exe
+C:\Users\ad_di\source\repos\OOP_modul3_BEGINING\OOP_modul3_BEGINING\obj\Debug\OOP_modul3_BEGINING.pdb

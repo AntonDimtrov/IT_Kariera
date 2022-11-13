@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.exe
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.genruntimeconfig.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.csprojAssemblyReference.cache

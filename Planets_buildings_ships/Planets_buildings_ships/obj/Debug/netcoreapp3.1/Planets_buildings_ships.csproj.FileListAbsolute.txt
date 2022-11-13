@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\bin\Debug\netcoreapp3.1\Planets_buildings_ships.exe
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\bin\Debug\netcoreapp3.1\Planets_buildings_ships.deps.json
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\bin\Debug\netcoreapp3.1\Planets_buildings_ships.runtimeconfig.json
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\bin\Debug\netcoreapp3.1\Planets_buildings_ships.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\bin\Debug\netcoreapp3.1\Planets_buildings_ships.dll
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\bin\Debug\netcoreapp3.1\Planets_buildings_ships.pdb
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\obj\Debug\netcoreapp3.1\Planets_buildings_ships.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\obj\Debug\netcoreapp3.1\Planets_buildings_ships.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\obj\Debug\netcoreapp3.1\Planets_buildings_ships.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\obj\Debug\netcoreapp3.1\Planets_buildings_ships.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\obj\Debug\netcoreapp3.1\Planets_buildings_ships.dll
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\obj\Debug\netcoreapp3.1\Planets_buildings_ships.pdb
+C:\Users\ad_di\source\repos\Planets_buildings_ships\Planets_buildings_ships\obj\Debug\netcoreapp3.1\Planets_buildings_ships.genruntimeconfig.cache

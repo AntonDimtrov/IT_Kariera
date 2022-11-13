@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.exe
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.deps.json
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.dll
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.pdb
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.dll
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.pdb
+C:\Users\ad_di\source\repos\Modul4\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.genruntimeconfig.cache

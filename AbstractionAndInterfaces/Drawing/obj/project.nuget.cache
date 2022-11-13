@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dt9WXAHdBOdury24XfCTz3nfFTSkoTBRChOa4DXXZ1t3H6PutyWr8cBe8zkgVrx16TTkElyctvo+DTpaERQjLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ad_di\\source\\repos\\SoftUni\\AbstractionAndInterfaces\\Drawing\\DrawingFigures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ad_di\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\ad_di\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ad_di\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ad_di\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

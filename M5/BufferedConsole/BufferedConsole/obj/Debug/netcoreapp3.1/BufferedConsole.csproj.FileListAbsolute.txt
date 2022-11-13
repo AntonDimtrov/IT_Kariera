@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\bin\Debug\netcoreapp3.1\BufferedConsole.exe
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\bin\Debug\netcoreapp3.1\BufferedConsole.deps.json
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\bin\Debug\netcoreapp3.1\BufferedConsole.runtimeconfig.json
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\bin\Debug\netcoreapp3.1\BufferedConsole.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\bin\Debug\netcoreapp3.1\BufferedConsole.dll
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\bin\Debug\netcoreapp3.1\BufferedConsole.pdb
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\obj\Debug\netcoreapp3.1\BufferedConsole.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\obj\Debug\netcoreapp3.1\BufferedConsole.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\obj\Debug\netcoreapp3.1\BufferedConsole.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\obj\Debug\netcoreapp3.1\BufferedConsole.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\obj\Debug\netcoreapp3.1\BufferedConsole.dll
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\obj\Debug\netcoreapp3.1\BufferedConsole.pdb
+C:\Users\ad_di\source\repos\SoftUni\M5\BufferedConsole\BufferedConsole\obj\Debug\netcoreapp3.1\BufferedConsole.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\ad_di\Desktop\SoftUni\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+C:\Users\ad_di\Desktop\SoftUni\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+C:\Users\ad_di\Desktop\SoftUni\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+C:\Users\ad_di\Desktop\SoftUni\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\ad_di\Desktop\SoftUni\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\Desktop\SoftUni\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+C:\Users\ad_di\Desktop\SoftUni\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb

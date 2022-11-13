@@ -1,0 +1,7 @@
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Game - 08.07.2018 - Solution\Game\Game\bin\Debug\Game.exe.config
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Game - 08.07.2018 - Solution\Game\Game\bin\Debug\Game.exe
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Game - 08.07.2018 - Solution\Game\Game\bin\Debug\Game.pdb
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Game - 08.07.2018 - Solution\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Game - 08.07.2018 - Solution\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Game - 08.07.2018 - Solution\Game\Game\obj\Debug\Game.exe
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Game - 08.07.2018 - Solution\Game\Game\obj\Debug\Game.pdb

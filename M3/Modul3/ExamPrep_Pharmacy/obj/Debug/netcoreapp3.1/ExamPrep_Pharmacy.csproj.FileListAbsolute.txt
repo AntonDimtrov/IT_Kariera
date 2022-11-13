@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\bin\Debug\netcoreapp3.1\ExamPrep_Pharmacy.exe
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\bin\Debug\netcoreapp3.1\ExamPrep_Pharmacy.deps.json
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\bin\Debug\netcoreapp3.1\ExamPrep_Pharmacy.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\bin\Debug\netcoreapp3.1\ExamPrep_Pharmacy.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\bin\Debug\netcoreapp3.1\ExamPrep_Pharmacy.dll
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\bin\Debug\netcoreapp3.1\ExamPrep_Pharmacy.pdb
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\obj\Debug\netcoreapp3.1\ExamPrep_Pharmacy.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\obj\Debug\netcoreapp3.1\ExamPrep_Pharmacy.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\obj\Debug\netcoreapp3.1\ExamPrep_Pharmacy.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\obj\Debug\netcoreapp3.1\ExamPrep_Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\obj\Debug\netcoreapp3.1\ExamPrep_Pharmacy.dll
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\obj\Debug\netcoreapp3.1\ExamPrep_Pharmacy.pdb
+C:\Users\ad_di\source\repos\Modul3\ExamPrep_Pharmacy\obj\Debug\netcoreapp3.1\ExamPrep_Pharmacy.genruntimeconfig.cache

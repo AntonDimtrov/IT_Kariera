@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul3\Banker\bin\Debug\netcoreapp3.1\Banker.exe
+C:\Users\ad_di\source\repos\Modul3\Banker\bin\Debug\netcoreapp3.1\Banker.deps.json
+C:\Users\ad_di\source\repos\Modul3\Banker\bin\Debug\netcoreapp3.1\Banker.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul3\Banker\bin\Debug\netcoreapp3.1\Banker.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul3\Banker\bin\Debug\netcoreapp3.1\Banker.dll
+C:\Users\ad_di\source\repos\Modul3\Banker\bin\Debug\netcoreapp3.1\Banker.pdb
+C:\Users\ad_di\source\repos\Modul3\Banker\obj\Debug\netcoreapp3.1\Banker.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul3\Banker\obj\Debug\netcoreapp3.1\Banker.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul3\Banker\obj\Debug\netcoreapp3.1\Banker.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul3\Banker\obj\Debug\netcoreapp3.1\Banker.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul3\Banker\obj\Debug\netcoreapp3.1\Banker.dll
+C:\Users\ad_di\source\repos\Modul3\Banker\obj\Debug\netcoreapp3.1\Banker.pdb
+C:\Users\ad_di\source\repos\Modul3\Banker\obj\Debug\netcoreapp3.1\Banker.genruntimeconfig.cache

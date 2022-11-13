@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\bin\Debug\netcoreapp3.1\Modul3_test_carshop.exe
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\bin\Debug\netcoreapp3.1\Modul3_test_carshop.deps.json
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\bin\Debug\netcoreapp3.1\Modul3_test_carshop.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\bin\Debug\netcoreapp3.1\Modul3_test_carshop.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\bin\Debug\netcoreapp3.1\Modul3_test_carshop.dll
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\bin\Debug\netcoreapp3.1\Modul3_test_carshop.pdb
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\obj\Debug\netcoreapp3.1\Modul3_test_carshop.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\obj\Debug\netcoreapp3.1\Modul3_test_carshop.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\obj\Debug\netcoreapp3.1\Modul3_test_carshop.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\obj\Debug\netcoreapp3.1\Modul3_test_carshop.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\obj\Debug\netcoreapp3.1\Modul3_test_carshop.dll
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\obj\Debug\netcoreapp3.1\Modul3_test_carshop.pdb
+C:\Users\ad_di\source\repos\Modul3_test_carshop\Modul3_test_carshop\obj\Debug\netcoreapp3.1\Modul3_test_carshop.genruntimeconfig.cache

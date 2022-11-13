@@ -1,0 +1,12 @@
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\bin\Debug\netcoreapp3.1\BetterList.exe
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\bin\Debug\netcoreapp3.1\BetterList.deps.json
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\bin\Debug\netcoreapp3.1\BetterList.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\bin\Debug\netcoreapp3.1\BetterList.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\bin\Debug\netcoreapp3.1\BetterList.dll
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\bin\Debug\netcoreapp3.1\BetterList.pdb
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\obj\Debug\netcoreapp3.1\BetterList.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\obj\Debug\netcoreapp3.1\BetterList.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\obj\Debug\netcoreapp3.1\BetterList.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\obj\Debug\netcoreapp3.1\BetterList.dll
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\obj\Debug\netcoreapp3.1\BetterList.pdb
+C:\Users\ad_di\source\repos\Modul5Exercise\BetterList\obj\Debug\netcoreapp3.1\BetterList.genruntimeconfig.cache

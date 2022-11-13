@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\bin\Debug\netcoreapp3.1\Exercise1_Person.exe
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\bin\Debug\netcoreapp3.1\Exercise1_Person.deps.json
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\bin\Debug\netcoreapp3.1\Exercise1_Person.runtimeconfig.json
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\bin\Debug\netcoreapp3.1\Exercise1_Person.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\bin\Debug\netcoreapp3.1\Exercise1_Person.dll
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\bin\Debug\netcoreapp3.1\Exercise1_Person.pdb
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\obj\Debug\netcoreapp3.1\Exercise1_Person.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\obj\Debug\netcoreapp3.1\Exercise1_Person.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\obj\Debug\netcoreapp3.1\Exercise1_Person.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\obj\Debug\netcoreapp3.1\Exercise1_Person.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\obj\Debug\netcoreapp3.1\Exercise1_Person.dll
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\obj\Debug\netcoreapp3.1\Exercise1_Person.pdb
+C:\Users\ad_di\source\repos\Exercise1_Person\Exercise1_Person\obj\Debug\netcoreapp3.1\Exercise1_Person.genruntimeconfig.cache

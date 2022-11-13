@@ -1,0 +1,11 @@
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\bin\Debug\netcoreapp2.1\LinkedQueue.deps.json
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\bin\Debug\netcoreapp2.1\LinkedQueue.runtimeconfig.json
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\bin\Debug\netcoreapp2.1\LinkedQueue.runtimeconfig.dev.json
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\bin\Debug\netcoreapp2.1\LinkedQueue.dll
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\bin\Debug\netcoreapp2.1\LinkedQueue.pdb
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.csprojAssemblyReference.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.csproj.CoreCompileInputs.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.AssemblyInfoInputs.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.AssemblyInfo.cs
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.dll
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\02-Линейни-структури-от-данни\2019\LinkedQueue\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.pdb

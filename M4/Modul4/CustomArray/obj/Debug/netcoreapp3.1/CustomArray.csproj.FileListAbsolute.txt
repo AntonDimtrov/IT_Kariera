@@ -1,0 +1,12 @@
+C:\Users\ad_di\source\repos\Modul4\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.exe
+C:\Users\ad_di\source\repos\Modul4\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.deps.json
+C:\Users\ad_di\source\repos\Modul4\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul4\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul4\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.dll
+C:\Users\ad_di\source\repos\Modul4\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.pdb
+C:\Users\ad_di\source\repos\Modul4\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul4\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul4\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul4\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.dll
+C:\Users\ad_di\source\repos\Modul4\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.pdb
+C:\Users\ad_di\source\repos\Modul4\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.genruntimeconfig.cache

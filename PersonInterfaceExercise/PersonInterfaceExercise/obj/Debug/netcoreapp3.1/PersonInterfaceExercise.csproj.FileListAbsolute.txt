@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\bin\Debug\netcoreapp3.1\PersonInterfaceExercise.exe
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\bin\Debug\netcoreapp3.1\PersonInterfaceExercise.deps.json
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\bin\Debug\netcoreapp3.1\PersonInterfaceExercise.runtimeconfig.json
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\bin\Debug\netcoreapp3.1\PersonInterfaceExercise.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\bin\Debug\netcoreapp3.1\PersonInterfaceExercise.dll
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\bin\Debug\netcoreapp3.1\PersonInterfaceExercise.pdb
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\obj\Debug\netcoreapp3.1\PersonInterfaceExercise.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\obj\Debug\netcoreapp3.1\PersonInterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\obj\Debug\netcoreapp3.1\PersonInterfaceExercise.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\obj\Debug\netcoreapp3.1\PersonInterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\obj\Debug\netcoreapp3.1\PersonInterfaceExercise.dll
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\obj\Debug\netcoreapp3.1\PersonInterfaceExercise.pdb
+C:\Users\ad_di\source\repos\PersonInterfaceExercise\PersonInterfaceExercise\obj\Debug\netcoreapp3.1\PersonInterfaceExercise.genruntimeconfig.cache

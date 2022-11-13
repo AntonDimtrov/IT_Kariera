@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\bin\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.exe
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\bin\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\bin\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\bin\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\bin\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\bin\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\obj\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\obj\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\obj\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\obj\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\obj\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\obj\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.genruntimeconfig.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\PhoenixOskarRomeoNovember\obj\Debug\netcoreapp3.1\PhoenixOskarRomeoNovember.csprojAssemblyReference.cache

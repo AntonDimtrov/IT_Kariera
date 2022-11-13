@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\obj\Debug\netcoreapp3.1\TemplateClasses.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\obj\Debug\netcoreapp3.1\TemplateClasses.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\obj\Debug\netcoreapp3.1\TemplateClasses.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\obj\Debug\netcoreapp3.1\TemplateClasses.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\bin\Debug\netcoreapp3.1\TemplateClasses.exe
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\bin\Debug\netcoreapp3.1\TemplateClasses.deps.json
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\bin\Debug\netcoreapp3.1\TemplateClasses.runtimeconfig.json
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\bin\Debug\netcoreapp3.1\TemplateClasses.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\bin\Debug\netcoreapp3.1\TemplateClasses.dll
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\bin\Debug\netcoreapp3.1\TemplateClasses.pdb
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\obj\Debug\netcoreapp3.1\TemplateClasses.dll
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\obj\Debug\netcoreapp3.1\TemplateClasses.pdb
+C:\Users\ad_di\source\repos\TemplateClasses\TemplateClasses\obj\Debug\netcoreapp3.1\TemplateClasses.genruntimeconfig.cache

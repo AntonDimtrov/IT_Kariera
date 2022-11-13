@@ -1,0 +1,7 @@
+C:\Users\ad_di\Desktop\SoftUni\wine_production\wine_production\bin\Debug\wine_production.exe.config
+C:\Users\ad_di\Desktop\SoftUni\wine_production\wine_production\bin\Debug\wine_production.exe
+C:\Users\ad_di\Desktop\SoftUni\wine_production\wine_production\bin\Debug\wine_production.pdb
+C:\Users\ad_di\Desktop\SoftUni\wine_production\wine_production\obj\Debug\wine_production.csprojAssemblyReference.cache
+C:\Users\ad_di\Desktop\SoftUni\wine_production\wine_production\obj\Debug\wine_production.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\Desktop\SoftUni\wine_production\wine_production\obj\Debug\wine_production.exe
+C:\Users\ad_di\Desktop\SoftUni\wine_production\wine_production\obj\Debug\wine_production.pdb

@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.exe
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.deps.json
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.runtimeconfig.json
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.dll
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.pdb
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.dll
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.pdb
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.genruntimeconfig.cache

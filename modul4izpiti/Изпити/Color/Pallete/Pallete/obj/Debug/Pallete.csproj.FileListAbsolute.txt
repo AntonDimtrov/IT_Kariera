@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Pallete\Pallete\bin\Debug\Pallete.exe.config
+C:\Users\user\source\repos\Pallete\Pallete\bin\Debug\Pallete.exe
+C:\Users\user\source\repos\Pallete\Pallete\bin\Debug\Pallete.pdb
+C:\Users\user\source\repos\Pallete\Pallete\obj\Debug\Pallete.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Pallete\Pallete\obj\Debug\Pallete.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Pallete\Pallete\obj\Debug\Pallete.exe
+C:\Users\user\source\repos\Pallete\Pallete\obj\Debug\Pallete.pdb
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\1. Color\Pallete\Pallete\bin\Debug\Pallete.exe.config
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\1. Color\Pallete\Pallete\bin\Debug\Pallete.exe
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\1. Color\Pallete\Pallete\bin\Debug\Pallete.pdb
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\1. Color\Pallete\Pallete\obj\Debug\Pallete.csprojAssemblyReference.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\1. Color\Pallete\Pallete\obj\Debug\Pallete.csproj.CoreCompileInputs.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\1. Color\Pallete\Pallete\obj\Debug\Pallete.exe
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\1. Color\Pallete\Pallete\obj\Debug\Pallete.pdb

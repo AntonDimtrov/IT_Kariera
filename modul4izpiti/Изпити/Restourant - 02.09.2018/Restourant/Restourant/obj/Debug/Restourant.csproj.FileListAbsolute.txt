@@ -1,0 +1,7 @@
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Restourant - 02.09.2018\Restourant\Restourant\bin\Debug\Restourant.exe.config
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Restourant - 02.09.2018\Restourant\Restourant\bin\Debug\Restourant.exe
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Restourant - 02.09.2018\Restourant\Restourant\bin\Debug\Restourant.pdb
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Restourant - 02.09.2018\Restourant\Restourant\obj\Debug\Restourant.csprojAssemblyReference.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Restourant - 02.09.2018\Restourant\Restourant\obj\Debug\Restourant.csproj.CoreCompileInputs.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Restourant - 02.09.2018\Restourant\Restourant\obj\Debug\Restourant.exe
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Restourant - 02.09.2018\Restourant\Restourant\obj\Debug\Restourant.pdb

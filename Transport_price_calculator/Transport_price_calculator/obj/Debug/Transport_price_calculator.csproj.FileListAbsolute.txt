@@ -1,0 +1,7 @@
+C:\Users\ad_di\Desktop\SoftUni\Transport_price_calculator\Transport_price_calculator\bin\Debug\Transport_price_calculator.exe.config
+C:\Users\ad_di\Desktop\SoftUni\Transport_price_calculator\Transport_price_calculator\bin\Debug\Transport_price_calculator.exe
+C:\Users\ad_di\Desktop\SoftUni\Transport_price_calculator\Transport_price_calculator\bin\Debug\Transport_price_calculator.pdb
+C:\Users\ad_di\Desktop\SoftUni\Transport_price_calculator\Transport_price_calculator\obj\Debug\Transport_price_calculator.csprojAssemblyReference.cache
+C:\Users\ad_di\Desktop\SoftUni\Transport_price_calculator\Transport_price_calculator\obj\Debug\Transport_price_calculator.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\Desktop\SoftUni\Transport_price_calculator\Transport_price_calculator\obj\Debug\Transport_price_calculator.exe
+C:\Users\ad_di\Desktop\SoftUni\Transport_price_calculator\Transport_price_calculator\obj\Debug\Transport_price_calculator.pdb

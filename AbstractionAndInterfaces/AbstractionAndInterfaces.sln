@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingFigures", "Drawing\DrawingFigures.csproj", "{CD439750-99FF-494F-8042-B81AC9BF0F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "BorderControl\BorderControl.csproj", "{AB5B1E18-5F75-427A-A93F-A664FDD4F2CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD439750-99FF-494F-8042-B81AC9BF0F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD439750-99FF-494F-8042-B81AC9BF0F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD439750-99FF-494F-8042-B81AC9BF0F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD439750-99FF-494F-8042-B81AC9BF0F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5B1E18-5F75-427A-A93F-A664FDD4F2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5B1E18-5F75-427A-A93F-A664FDD4F2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5B1E18-5F75-427A-A93F-A664FDD4F2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5B1E18-5F75-427A-A93F-A664FDD4F2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D30C52-DBBB-44DA-AED4-5AB7E72BE29C}
+	EndGlobalSection
+EndGlobal

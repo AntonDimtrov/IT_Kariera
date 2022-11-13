@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\bin\Debug\netcoreapp3.1\Raincast.exe
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\bin\Debug\netcoreapp3.1\Raincast.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\bin\Debug\netcoreapp3.1\Raincast.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\bin\Debug\netcoreapp3.1\Raincast.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\bin\Debug\netcoreapp3.1\Raincast.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\bin\Debug\netcoreapp3.1\Raincast.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\obj\Debug\netcoreapp3.1\Raincast.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\obj\Debug\netcoreapp3.1\Raincast.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\obj\Debug\netcoreapp3.1\Raincast.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\obj\Debug\netcoreapp3.1\Raincast.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\obj\Debug\netcoreapp3.1\Raincast.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\obj\Debug\netcoreapp3.1\Raincast.genruntimeconfig.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\Raincast\obj\Debug\netcoreapp3.1\Raincast.csprojAssemblyReference.cache

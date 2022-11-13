@@ -1,0 +1,7 @@
+C:\Users\ad_di\Desktop\SoftUni\Coordinate_system\Coordinate_system\bin\Debug\Coordinate_system.exe.config
+C:\Users\ad_di\Desktop\SoftUni\Coordinate_system\Coordinate_system\bin\Debug\Coordinate_system.exe
+C:\Users\ad_di\Desktop\SoftUni\Coordinate_system\Coordinate_system\bin\Debug\Coordinate_system.pdb
+C:\Users\ad_di\Desktop\SoftUni\Coordinate_system\Coordinate_system\obj\Debug\Coordinate_system.csprojAssemblyReference.cache
+C:\Users\ad_di\Desktop\SoftUni\Coordinate_system\Coordinate_system\obj\Debug\Coordinate_system.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\Desktop\SoftUni\Coordinate_system\Coordinate_system\obj\Debug\Coordinate_system.exe
+C:\Users\ad_di\Desktop\SoftUni\Coordinate_system\Coordinate_system\obj\Debug\Coordinate_system.pdb

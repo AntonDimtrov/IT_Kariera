@@ -1,0 +1,7 @@
+C:\Users\ad_di\source\repos\modul3_validation_exercises\modul3_validation_exercises\bin\Debug\modul3_validation_exercises.exe.config
+C:\Users\ad_di\source\repos\modul3_validation_exercises\modul3_validation_exercises\bin\Debug\modul3_validation_exercises.exe
+C:\Users\ad_di\source\repos\modul3_validation_exercises\modul3_validation_exercises\bin\Debug\modul3_validation_exercises.pdb
+C:\Users\ad_di\source\repos\modul3_validation_exercises\modul3_validation_exercises\obj\Debug\modul3_validation_exercises.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\modul3_validation_exercises\modul3_validation_exercises\obj\Debug\modul3_validation_exercises.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\modul3_validation_exercises\modul3_validation_exercises\obj\Debug\modul3_validation_exercises.exe
+C:\Users\ad_di\source\repos\modul3_validation_exercises\modul3_validation_exercises\obj\Debug\modul3_validation_exercises.pdb

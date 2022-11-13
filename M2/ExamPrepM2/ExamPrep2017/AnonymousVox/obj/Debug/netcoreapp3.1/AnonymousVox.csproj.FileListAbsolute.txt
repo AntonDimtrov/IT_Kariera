@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\bin\Debug\netcoreapp3.1\AnonymousVox.exe
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\bin\Debug\netcoreapp3.1\AnonymousVox.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\bin\Debug\netcoreapp3.1\AnonymousVox.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\bin\Debug\netcoreapp3.1\AnonymousVox.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\bin\Debug\netcoreapp3.1\AnonymousVox.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\bin\Debug\netcoreapp3.1\AnonymousVox.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\obj\Debug\netcoreapp3.1\AnonymousVox.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\obj\Debug\netcoreapp3.1\AnonymousVox.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\obj\Debug\netcoreapp3.1\AnonymousVox.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\obj\Debug\netcoreapp3.1\AnonymousVox.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\obj\Debug\netcoreapp3.1\AnonymousVox.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\obj\Debug\netcoreapp3.1\AnonymousVox.genruntimeconfig.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousVox\obj\Debug\netcoreapp3.1\AnonymousVox.csprojAssemblyReference.cache

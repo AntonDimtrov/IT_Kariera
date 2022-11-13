@@ -1,0 +1,12 @@
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\bin\Debug\netcoreapp3.1\FootballSeason(4).exe
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\bin\Debug\netcoreapp3.1\FootballSeason(4).deps.json
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\bin\Debug\netcoreapp3.1\FootballSeason(4).runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\bin\Debug\netcoreapp3.1\FootballSeason(4).runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\bin\Debug\netcoreapp3.1\FootballSeason(4).dll
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\bin\Debug\netcoreapp3.1\FootballSeason(4).pdb
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\obj\Debug\netcoreapp3.1\FootballSeason(4).AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\obj\Debug\netcoreapp3.1\FootballSeason(4).AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\obj\Debug\netcoreapp3.1\FootballSeason(4).csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\obj\Debug\netcoreapp3.1\FootballSeason(4).dll
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\obj\Debug\netcoreapp3.1\FootballSeason(4).pdb
+C:\Users\ad_di\source\repos\ExamPrep2021\FootballSeason(4)\obj\Debug\netcoreapp3.1\FootballSeason(4).genruntimeconfig.cache

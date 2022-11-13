@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\bin\Debug\netcoreapp3.1\NameGame.exe
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\bin\Debug\netcoreapp3.1\NameGame.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\bin\Debug\netcoreapp3.1\NameGame.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\bin\Debug\netcoreapp3.1\NameGame.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\bin\Debug\netcoreapp3.1\NameGame.dll
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\bin\Debug\netcoreapp3.1\NameGame.pdb
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\obj\Debug\netcoreapp3.1\NameGame.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\obj\Debug\netcoreapp3.1\NameGame.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\obj\Debug\netcoreapp3.1\NameGame.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\obj\Debug\netcoreapp3.1\NameGame.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\obj\Debug\netcoreapp3.1\NameGame.dll
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\obj\Debug\netcoreapp3.1\NameGame.pdb
+C:\Users\ad_di\source\repos\ExamPrep2022\NameGame\obj\Debug\netcoreapp3.1\NameGame.genruntimeconfig.cache

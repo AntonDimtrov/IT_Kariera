@@ -1,0 +1,260 @@
+Case=Case 001
+grade reduction=0
+input=Add element1
+Add element2
+Info
+Add element3
+Add element4
+Info
+Replace
+Info
+Check element1
+Check adsadadsa
+Resize
+Info
+Remove 1
+Info
+END
+output=Count: 2
+Capacity: 3
+element1
+element2
+Count: 4
+Capacity: 6
+element1
+element2
+element3
+element4
+Count: 4
+Capacity: 6
+element4
+element2
+element3
+element1
+Element is present
+Element is not present
+Count: 4
+Capacity: 12
+element4
+element2
+element3
+element1
+Removed element
+Count: 3
+Capacity: 12
+element4
+element3
+element1
+
+Case=Case 01
+Fail message= Case1_fail
+grade reduction=10
+input=Add element1
+Add element2
+Add element3
+Info
+END
+output=Count: 3
+Capacity: 3
+element1
+element2
+element3
+
+Case=Case 02
+Fail message= Case2_fail
+grade reduction=10
+input=Add element1
+Add element2
+Add element3
+Add element4
+Add element5
+Info
+END
+output=Count: 5
+Capacity: 6
+element1
+element2
+element3
+element4
+element5
+
+Case=Case 03
+Fail message= Case3_fail
+grade reduction=10
+input=Add element1
+Add element2
+Add element3
+Add element4
+Add element5
+Add element6
+Add element7
+Info
+END
+output=Count: 7
+Capacity: 12
+element1
+element2
+element3
+element4
+element5
+element6
+element7
+
+Case=Case 04
+Fail message= Case4_fail
+grade reduction=10
+input=Add element1
+Add element2
+Check element1
+END
+output=Element is present
+
+Case=Case 05
+Fail message= Case5_fail
+grade reduction=10
+input=Add elementFirst
+Add elementSecond
+Add elementThird
+Replace
+END
+output=
+
+Case=Case 06
+Fail message= Case6_fail
+grade reduction=10
+input=Add element1
+Add element2
+Add element3
+Replace
+Info
+Replace
+Info
+Check element1
+Check ajdajdajdsa
+Check element2
+Add element4
+Check element4
+Replace
+Info
+END
+output=Count: 3
+Capacity: 3
+element3
+element2
+element1
+Count: 3
+Capacity: 3
+element1
+element2
+element3
+Element is present
+Element is not present
+Element is present
+Element is present
+Count: 4
+Capacity: 6
+element4
+element2
+element3
+element1
+
+
+Case=Case 07
+Fail message= Case7_fail
+grade reduction=10
+input=Add element1
+Add element2
+Resize
+Info
+END
+output=Count: 2
+Capacity: 6
+element1
+element2
+
+
+Case=Case 08
+Fail message= Case8_fail
+grade reduction=10
+input=Resize
+Info
+Add element1
+Add element2
+Add element3
+Info
+Add element4
+Resize
+Resize
+Resize
+Resize
+Resize
+Info
+END
+output=Count: 0
+Capacity: 6
+Count: 3
+Capacity: 6
+element1
+element2
+element3
+Count: 4
+Capacity: 192
+element1
+element2
+element3
+element4
+
+
+Case=Case 09
+Fail message= Case9_fail
+grade reduction=10
+input=Add element1
+Add element2
+Add element3
+Info
+Remove 1
+Info
+END
+output=Count: 3
+Capacity: 3
+element1
+element2
+element3
+Removed element
+Count: 2
+Capacity: 3
+element1
+element3
+
+
+Case=Case 10
+Fail message= Case10_fail
+grade reduction=10
+input=Add element1
+Add element2
+Add element3
+Add element34
+Remove 3
+Remove -3
+Info
+Remove 0
+Info
+Remove 1
+Info
+END
+output=Removed element
+Could not remove element
+Count: 3
+Capacity: 6
+element1
+element2
+element3
+Removed element
+Count: 2
+Capacity: 6
+element2
+element3
+Removed element
+Count: 1
+Capacity: 6
+element2

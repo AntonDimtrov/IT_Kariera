@@ -1,0 +1,12 @@
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\bin\Debug\netcoreapp3.1\FitnessVisitors.exe
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\bin\Debug\netcoreapp3.1\FitnessVisitors.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\bin\Debug\netcoreapp3.1\FitnessVisitors.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\bin\Debug\netcoreapp3.1\FitnessVisitors.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\bin\Debug\netcoreapp3.1\FitnessVisitors.dll
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\bin\Debug\netcoreapp3.1\FitnessVisitors.pdb
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\obj\Debug\netcoreapp3.1\FitnessVisitors.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\obj\Debug\netcoreapp3.1\FitnessVisitors.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\obj\Debug\netcoreapp3.1\FitnessVisitors.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\obj\Debug\netcoreapp3.1\FitnessVisitors.dll
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\obj\Debug\netcoreapp3.1\FitnessVisitors.pdb
+C:\Users\ad_di\source\repos\ExamPrep2021\FitnessVisitors\obj\Debug\netcoreapp3.1\FitnessVisitors.genruntimeconfig.cache

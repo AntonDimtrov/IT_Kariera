@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\bin\Debug\netcoreapp3.1\RegularExam.exe
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\bin\Debug\netcoreapp3.1\RegularExam.deps.json
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\bin\Debug\netcoreapp3.1\RegularExam.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\bin\Debug\netcoreapp3.1\RegularExam.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\bin\Debug\netcoreapp3.1\RegularExam.dll
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\bin\Debug\netcoreapp3.1\RegularExam.pdb
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\obj\Debug\netcoreapp3.1\RegularExam.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\obj\Debug\netcoreapp3.1\RegularExam.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\obj\Debug\netcoreapp3.1\RegularExam.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\obj\Debug\netcoreapp3.1\RegularExam.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\obj\Debug\netcoreapp3.1\RegularExam.dll
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\obj\Debug\netcoreapp3.1\RegularExam.pdb
+C:\Users\ad_di\source\repos\Modul3_Exam\Modul3_Exam\obj\Debug\netcoreapp3.1\RegularExam.genruntimeconfig.cache

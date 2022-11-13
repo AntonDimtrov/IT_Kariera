@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\bin\Debug\netcoreapp3.1\DrawingFigures.exe
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\bin\Debug\netcoreapp3.1\DrawingFigures.deps.json
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\bin\Debug\netcoreapp3.1\DrawingFigures.runtimeconfig.json
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\bin\Debug\netcoreapp3.1\DrawingFigures.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\bin\Debug\netcoreapp3.1\DrawingFigures.dll
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\bin\Debug\netcoreapp3.1\DrawingFigures.pdb
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\obj\Debug\netcoreapp3.1\DrawingFigures.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\obj\Debug\netcoreapp3.1\DrawingFigures.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\obj\Debug\netcoreapp3.1\DrawingFigures.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\obj\Debug\netcoreapp3.1\DrawingFigures.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\obj\Debug\netcoreapp3.1\DrawingFigures.dll
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\obj\Debug\netcoreapp3.1\DrawingFigures.pdb
+C:\Users\ad_di\source\repos\AbstractionAndInterfaces\Drawing\obj\Debug\netcoreapp3.1\DrawingFigures.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.exe
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.deps.json
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.dll
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.pdb
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.dll
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.pdb
+C:\Users\ad_di\source\repos\Modul4\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.genruntimeconfig.cache

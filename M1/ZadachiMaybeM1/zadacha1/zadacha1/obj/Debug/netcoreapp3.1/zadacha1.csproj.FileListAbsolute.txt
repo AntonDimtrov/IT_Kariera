@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\bin\Debug\netcoreapp3.1\zadacha1.exe
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\bin\Debug\netcoreapp3.1\zadacha1.deps.json
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\bin\Debug\netcoreapp3.1\zadacha1.runtimeconfig.json
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\bin\Debug\netcoreapp3.1\zadacha1.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\bin\Debug\netcoreapp3.1\zadacha1.dll
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\bin\Debug\netcoreapp3.1\zadacha1.pdb
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\obj\Debug\netcoreapp3.1\zadacha1.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\obj\Debug\netcoreapp3.1\zadacha1.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\obj\Debug\netcoreapp3.1\zadacha1.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\obj\Debug\netcoreapp3.1\zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\obj\Debug\netcoreapp3.1\zadacha1.dll
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\obj\Debug\netcoreapp3.1\zadacha1.pdb
+C:\Users\ad_di\source\repos\zadacha1\zadacha1\obj\Debug\netcoreapp3.1\zadacha1.genruntimeconfig.cache

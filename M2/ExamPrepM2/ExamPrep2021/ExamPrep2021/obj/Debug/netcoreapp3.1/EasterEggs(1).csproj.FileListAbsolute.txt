@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\bin\Debug\netcoreapp3.1\EasterEggs(1).exe
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\bin\Debug\netcoreapp3.1\EasterEggs(1).deps.json
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\bin\Debug\netcoreapp3.1\EasterEggs(1).runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\bin\Debug\netcoreapp3.1\EasterEggs(1).runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\bin\Debug\netcoreapp3.1\EasterEggs(1).dll
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\bin\Debug\netcoreapp3.1\EasterEggs(1).pdb
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\obj\Debug\netcoreapp3.1\EasterEggs(1).csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\obj\Debug\netcoreapp3.1\EasterEggs(1).AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\obj\Debug\netcoreapp3.1\EasterEggs(1).AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\obj\Debug\netcoreapp3.1\EasterEggs(1).csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\obj\Debug\netcoreapp3.1\EasterEggs(1).dll
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\obj\Debug\netcoreapp3.1\EasterEggs(1).pdb
+C:\Users\ad_di\source\repos\ExamPrep2021\ExamPrep2021\obj\Debug\netcoreapp3.1\EasterEggs(1).genruntimeconfig.cache

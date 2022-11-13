@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\bin\Debug\netcoreapp3.1\AnonymousDownsite.exe
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\bin\Debug\netcoreapp3.1\AnonymousDownsite.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\bin\Debug\netcoreapp3.1\AnonymousDownsite.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\bin\Debug\netcoreapp3.1\AnonymousDownsite.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\bin\Debug\netcoreapp3.1\AnonymousDownsite.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\bin\Debug\netcoreapp3.1\AnonymousDownsite.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\obj\Debug\netcoreapp3.1\AnonymousDownsite.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\obj\Debug\netcoreapp3.1\AnonymousDownsite.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\obj\Debug\netcoreapp3.1\AnonymousDownsite.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\obj\Debug\netcoreapp3.1\AnonymousDownsite.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\obj\Debug\netcoreapp3.1\AnonymousDownsite.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\obj\Debug\netcoreapp3.1\AnonymousDownsite.genruntimeconfig.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\AnonymousDownsite\obj\Debug\netcoreapp3.1\AnonymousDownsite.csprojAssemblyReference.cache

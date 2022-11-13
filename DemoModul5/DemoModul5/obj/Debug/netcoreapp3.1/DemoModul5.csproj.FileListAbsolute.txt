@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\bin\Debug\netcoreapp3.1\DemoModul5.exe
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\bin\Debug\netcoreapp3.1\DemoModul5.deps.json
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\bin\Debug\netcoreapp3.1\DemoModul5.runtimeconfig.json
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\bin\Debug\netcoreapp3.1\DemoModul5.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\bin\Debug\netcoreapp3.1\DemoModul5.dll
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\bin\Debug\netcoreapp3.1\DemoModul5.pdb
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\obj\Debug\netcoreapp3.1\DemoModul5.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\obj\Debug\netcoreapp3.1\DemoModul5.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\obj\Debug\netcoreapp3.1\DemoModul5.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\obj\Debug\netcoreapp3.1\DemoModul5.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\obj\Debug\netcoreapp3.1\DemoModul5.dll
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\obj\Debug\netcoreapp3.1\DemoModul5.pdb
+C:\Users\ad_di\source\repos\DemoModul5\DemoModul5\obj\Debug\netcoreapp3.1\DemoModul5.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Student KK1\Desktop\IT_Kariera\Trains2\Trains2\obj\Debug\Trains2.csprojAssemblyReference.cache
+C:\Users\Student KK1\Desktop\IT_Kariera\Trains2\Trains2\obj\Debug\Trains2.csproj.CoreCompileInputs.cache
+C:\Users\Student KK1\Desktop\IT_Kariera\Trains2\Trains2\bin\Debug\Trains2.exe.config
+C:\Users\Student KK1\Desktop\IT_Kariera\Trains2\Trains2\bin\Debug\Trains2.exe
+C:\Users\Student KK1\Desktop\IT_Kariera\Trains2\Trains2\bin\Debug\Trains2.pdb
+C:\Users\Student KK1\Desktop\IT_Kariera\Trains2\Trains2\obj\Debug\Trains2.exe
+C:\Users\Student KK1\Desktop\IT_Kariera\Trains2\Trains2\obj\Debug\Trains2.pdb

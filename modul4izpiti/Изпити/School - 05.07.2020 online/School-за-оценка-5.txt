@@ -1,0 +1,86 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Exam1
+{
+    class School
+    {
+        private string name;
+        private List<Student> students;        
+        public School(string name)
+        {
+            this.Name = name;
+            this.Students = new List<Student>();
+        }
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+        public List<Student> Students
+        {
+            get { return students; }
+            private set { students = value; }
+        }
+        public void AddStudent(string name, double grade)
+        {
+            var newStudent = new Student(name, grade);
+            students.Add(newStudent);
+        }
+        public double AverageResultInRange(int start, int end)
+        {
+            List<double> result = new List<double>();
+            for (int i = 0; i < students.Count; i++)
+            {
+                if (i >= start && i <= end)
+                {
+                    result.Add(students[i].Grade);
+                }
+            }
+            return result.Average();
+        }
+        public List<string> RemoveStudentsByGrade(double grade)
+        {
+            List<string> result = new List<string>();
+            for (int i = 0; i < students.Count; i++)
+            {
+                if (students[i].Grade < grade)
+                {
+                    result.Add(students[i].Name);
+                }
+            }
+            return result;
+        }
+        public List<Student> SortAscendingByName()
+        {
+            return students.OrderBy(x => x.Name).ToList();
+        }
+        public List<Student> SortDescendingByGrade()
+        {
+            return students.OrderByDescending(x => x.Grade).ToList();
+        }
+        public bool CheckStudentIsInSchool(string name)
+        {
+            for (int i = 0; i < students.Count; i++)
+            {
+                if (students[i].Name == name)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        public string[] ProvideInformationAboutAllStudents()
+        {
+            string[] printInfo = new string[students.Count];
+            for (int i = 0; i < students.Count; i++)
+            {
+                printInfo[i] = students[i].ToString();
+            }
+            return printInfo;
+        }        
+    }
+}

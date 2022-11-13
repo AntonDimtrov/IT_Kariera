@@ -1,0 +1,12 @@
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\bin\Debug\netcoreapp3.1\Rainer.exe
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\bin\Debug\netcoreapp3.1\Rainer.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\bin\Debug\netcoreapp3.1\Rainer.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\bin\Debug\netcoreapp3.1\Rainer.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\bin\Debug\netcoreapp3.1\Rainer.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\bin\Debug\netcoreapp3.1\Rainer.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\obj\Debug\netcoreapp3.1\Rainer.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\obj\Debug\netcoreapp3.1\Rainer.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\obj\Debug\netcoreapp3.1\Rainer.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\obj\Debug\netcoreapp3.1\Rainer.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\obj\Debug\netcoreapp3.1\Rainer.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\Rainer\obj\Debug\netcoreapp3.1\Rainer.genruntimeconfig.cache

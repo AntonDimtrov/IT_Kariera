@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul4\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.exe
+C:\Users\ad_di\source\repos\Modul4\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.deps.json
+C:\Users\ad_di\source\repos\Modul4\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul4\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul4\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.dll
+C:\Users\ad_di\source\repos\Modul4\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.pdb
+C:\Users\ad_di\source\repos\Modul4\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul4\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul4\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul4\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul4\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.dll
+C:\Users\ad_di\source\repos\Modul4\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.pdb
+C:\Users\ad_di\source\repos\Modul4\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.genruntimeconfig.cache

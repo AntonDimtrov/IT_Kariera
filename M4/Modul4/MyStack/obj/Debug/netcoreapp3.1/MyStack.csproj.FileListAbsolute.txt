@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul4\MyStack\bin\Debug\netcoreapp3.1\MyStack.exe
+C:\Users\ad_di\source\repos\Modul4\MyStack\bin\Debug\netcoreapp3.1\MyStack.deps.json
+C:\Users\ad_di\source\repos\Modul4\MyStack\bin\Debug\netcoreapp3.1\MyStack.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul4\MyStack\bin\Debug\netcoreapp3.1\MyStack.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul4\MyStack\bin\Debug\netcoreapp3.1\MyStack.dll
+C:\Users\ad_di\source\repos\Modul4\MyStack\bin\Debug\netcoreapp3.1\MyStack.pdb
+C:\Users\ad_di\source\repos\Modul4\MyStack\obj\Debug\netcoreapp3.1\MyStack.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul4\MyStack\obj\Debug\netcoreapp3.1\MyStack.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul4\MyStack\obj\Debug\netcoreapp3.1\MyStack.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul4\MyStack\obj\Debug\netcoreapp3.1\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul4\MyStack\obj\Debug\netcoreapp3.1\MyStack.dll
+C:\Users\ad_di\source\repos\Modul4\MyStack\obj\Debug\netcoreapp3.1\MyStack.pdb
+C:\Users\ad_di\source\repos\Modul4\MyStack\obj\Debug\netcoreapp3.1\MyStack.genruntimeconfig.cache

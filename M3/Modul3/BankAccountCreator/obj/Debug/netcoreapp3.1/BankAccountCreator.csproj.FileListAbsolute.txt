@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\bin\Debug\netcoreapp3.1\BankAccountCreator.exe
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\bin\Debug\netcoreapp3.1\BankAccountCreator.deps.json
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\bin\Debug\netcoreapp3.1\BankAccountCreator.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\bin\Debug\netcoreapp3.1\BankAccountCreator.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\bin\Debug\netcoreapp3.1\BankAccountCreator.dll
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\bin\Debug\netcoreapp3.1\BankAccountCreator.pdb
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\obj\Debug\netcoreapp3.1\BankAccountCreator.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\obj\Debug\netcoreapp3.1\BankAccountCreator.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\obj\Debug\netcoreapp3.1\BankAccountCreator.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\obj\Debug\netcoreapp3.1\BankAccountCreator.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\obj\Debug\netcoreapp3.1\BankAccountCreator.dll
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\obj\Debug\netcoreapp3.1\BankAccountCreator.pdb
+C:\Users\ad_di\source\repos\Modul3\BankAccountCreator\obj\Debug\netcoreapp3.1\BankAccountCreator.genruntimeconfig.cache

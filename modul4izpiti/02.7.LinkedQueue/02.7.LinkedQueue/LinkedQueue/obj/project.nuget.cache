@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qpw8lYlQDkH5Vm0CuqJHsc9h0lupIA3rb4TOgrhDIuqYMcxYuf1cbqD6cSdZ3+/TfhVJzT8SUZaDSezFE1NYpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ad_di\\Desktop\\02.7.LinkedQueue\\02.7.LinkedQueue\\LinkedQueue\\LinkedQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ad_di\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\ad_di\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\ad_di\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\ad_di\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\ad_di\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\ad_di\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\ad_di\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

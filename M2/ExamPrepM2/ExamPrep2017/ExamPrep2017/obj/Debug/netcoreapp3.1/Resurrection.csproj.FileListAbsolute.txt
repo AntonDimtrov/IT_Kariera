@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\bin\Debug\netcoreapp3.1\Resurrection.exe
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\bin\Debug\netcoreapp3.1\Resurrection.deps.json
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\bin\Debug\netcoreapp3.1\Resurrection.runtimeconfig.json
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\bin\Debug\netcoreapp3.1\Resurrection.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\bin\Debug\netcoreapp3.1\Resurrection.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\bin\Debug\netcoreapp3.1\Resurrection.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\obj\Debug\netcoreapp3.1\Resurrection.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\obj\Debug\netcoreapp3.1\Resurrection.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\obj\Debug\netcoreapp3.1\Resurrection.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\obj\Debug\netcoreapp3.1\Resurrection.dll
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\obj\Debug\netcoreapp3.1\Resurrection.pdb
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\obj\Debug\netcoreapp3.1\Resurrection.genruntimeconfig.cache
+C:\Users\ad_di\source\repos\ExamPrep2017\ExamPrep2017\obj\Debug\netcoreapp3.1\Resurrection.csprojAssemblyReference.cache

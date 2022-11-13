@@ -1,0 +1,7 @@
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Trains\Trains\obj\Debug\Trains.csprojAssemblyReference.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Trains\Trains\obj\Debug\Trains.csproj.CoreCompileInputs.cache
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Trains\Trains\bin\Debug\Trains.exe.config
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Trains\Trains\bin\Debug\Trains.exe
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Trains\Trains\bin\Debug\Trains.pdb
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Trains\Trains\obj\Debug\Trains.exe
+D:\My Documents\Informatika  - C#\IT kariera - IV modil - ASD\Подготовка за изпит\Trains\Trains\obj\Debug\Trains.pdb

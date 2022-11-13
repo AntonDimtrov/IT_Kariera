@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\bin\Debug\netcoreapp3.1\Scale.exe
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\bin\Debug\netcoreapp3.1\Scale.deps.json
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\bin\Debug\netcoreapp3.1\Scale.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\bin\Debug\netcoreapp3.1\Scale.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\bin\Debug\netcoreapp3.1\Scale.dll
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\bin\Debug\netcoreapp3.1\Scale.pdb
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\obj\Debug\netcoreapp3.1\Scale.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\obj\Debug\netcoreapp3.1\Scale.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\obj\Debug\netcoreapp3.1\Scale.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\obj\Debug\netcoreapp3.1\Scale.dll
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\obj\Debug\netcoreapp3.1\Scale.pdb
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\obj\Debug\netcoreapp3.1\Scale.genruntimeconfig.cache
+C:\Users\ad_di\source\repos\Modul5Exercise\Scale\obj\Debug\netcoreapp3.1\Scale.csprojAssemblyReference.cache

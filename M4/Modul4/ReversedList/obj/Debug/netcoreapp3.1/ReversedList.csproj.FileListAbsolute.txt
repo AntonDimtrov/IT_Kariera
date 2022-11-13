@@ -1,0 +1,13 @@
+C:\Users\ad_di\source\repos\Modul4\ReversedList\bin\Debug\netcoreapp3.1\ReversedList.exe
+C:\Users\ad_di\source\repos\Modul4\ReversedList\bin\Debug\netcoreapp3.1\ReversedList.deps.json
+C:\Users\ad_di\source\repos\Modul4\ReversedList\bin\Debug\netcoreapp3.1\ReversedList.runtimeconfig.json
+C:\Users\ad_di\source\repos\Modul4\ReversedList\bin\Debug\netcoreapp3.1\ReversedList.runtimeconfig.dev.json
+C:\Users\ad_di\source\repos\Modul4\ReversedList\bin\Debug\netcoreapp3.1\ReversedList.dll
+C:\Users\ad_di\source\repos\Modul4\ReversedList\bin\Debug\netcoreapp3.1\ReversedList.pdb
+C:\Users\ad_di\source\repos\Modul4\ReversedList\obj\Debug\netcoreapp3.1\ReversedList.csprojAssemblyReference.cache
+C:\Users\ad_di\source\repos\Modul4\ReversedList\obj\Debug\netcoreapp3.1\ReversedList.AssemblyInfoInputs.cache
+C:\Users\ad_di\source\repos\Modul4\ReversedList\obj\Debug\netcoreapp3.1\ReversedList.AssemblyInfo.cs
+C:\Users\ad_di\source\repos\Modul4\ReversedList\obj\Debug\netcoreapp3.1\ReversedList.csproj.CoreCompileInputs.cache
+C:\Users\ad_di\source\repos\Modul4\ReversedList\obj\Debug\netcoreapp3.1\ReversedList.dll
+C:\Users\ad_di\source\repos\Modul4\ReversedList\obj\Debug\netcoreapp3.1\ReversedList.pdb
+C:\Users\ad_di\source\repos\Modul4\ReversedList\obj\Debug\netcoreapp3.1\ReversedList.genruntimeconfig.cache
